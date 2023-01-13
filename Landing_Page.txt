@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Website Landing page Design </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <section>    
+        <input type="checkbox" id="check">
+        <header>
+            <h2><a href="#"class='logo'>logo</a> </h2>
+            <div class="navigation">
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Info</a>
+            <a href="#">Services</a>
+            <a href="#">Contact</a>
+        </div>
+        <label for="check">
+            
+            <i class="fas fa-bars menu-btn"></i>
+            <i class="fas fa-times close-btn"></i>
+        </label>
+        </header>
+        <div class="content">
+            <div class="info">
+                <h2>
+                    Like Nature<br><span>Be Creative!!!</span></h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    
+           <a href="#" class="info-btn">More Info</a>     </div>
+        
+        <div class="media-icons">
+            <a href="#"><i class="https://www.facebook.com">facebook</i></a>
+            <a href="#"><i class="https://www.twitter.com">twitter</i></a>
+            <a href="#"><i class="https://www.instagram.com">instagram</i></a>
+            </div>
+    </section>
+    
+</body>
+</html>
